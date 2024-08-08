@@ -2,10 +2,7 @@
 
 ## Development Status
 
-This project is currently under development.
-
-**Note:** The tool only exposes metrics for pinned maps.
-
+**Note:** This concept is only able to expose metrics for pinned maps. So this was abandoned and improved for all maps in: https://github.com/dorkamotorka/ebpf-map-metrics
 
 So far it supports metrics for:
 
